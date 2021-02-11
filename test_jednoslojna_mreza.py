@@ -24,7 +24,7 @@ class Neuralna:
         return izlaz
 
 
-nm=Neuralna()
+nm = Neuralna()
 print("Nasumicno izabrane tezine: ")
 print(nm.tezine)
 
