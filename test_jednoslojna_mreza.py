@@ -46,5 +46,5 @@ ulaz3 = str(input("Unesi ulaz 3: "))
 print(ulaz1, ulaz2, ulaz3)
 print("Novi izlaz: ")
 
-novi=nm.misli(np.array([ulaz1, ulaz2, ulaz3]))
+novi = nm.misli(np.array([ulaz1, ulaz2, ulaz3]))
 print(novi)
